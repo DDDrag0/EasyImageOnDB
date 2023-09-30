@@ -16,6 +16,7 @@ public class PhotoControl {
 		PreparedStatement stmt = null;
 		ResultSet rs = null;
 
+	//commento intellij
 		byte[] bt = null;
 
 		try {
